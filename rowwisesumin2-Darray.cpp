@@ -45,3 +45,5 @@ int main()
 
     rowSum(arr, 3, 4);
 }
+// OUTPUT
+Enter the ARRAY elements : 1 2 3 4 5 6 7 8 9 10 11 12 The ARRAY is : 1 2 3 4 5 6 7 8 9 10 11 12 Sum of Row : 0 10 Sum of Row : 1 26 Sum of Row : 2 42
