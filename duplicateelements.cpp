@@ -26,3 +26,9 @@ int main()
     }
     cout << "The duplicate element is:" << duplicate(arr, size);
 }
+// OUTPUT
+//  Enter the size of ARRAY:
+//  5
+//  Enter the ARRAY elements:
+//  1 2 3 4 1
+//  The duplicate element is:1
