@@ -22,3 +22,9 @@ int main()
     }
     cout << "The unique number is:" << unique(arr, size);
 }
+//OUTPUT
+// Enter the size of ARRAY:
+// 5 
+// Enter the ARRAY elements:
+// 1 1 2 2 3
+// The unique number is:3
