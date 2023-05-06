@@ -26,6 +26,19 @@ int main()
     cin >> a;
     cout << "Enter the second number:" << endl;
     cin >> b;
-    // cout << "The GCD of " << a << " and " << b << " is " << gcd(a, b);
-    cout << "The LCM of " << a << " and " << b << " is " << LCM(a, b);
+    cout << "The GCD of " << a << " and " << b << " is " << gcd(a, b);
+    // cout << "The LCM of " << a << " and " << b << " is " << LCM(a, b);
 }
+// Output
+//  Enter the first number:
+//  4
+//  Enter the second number:
+//  6
+//  The LCM of 4 and 6 is 12
+
+
+// Enter the first number:
+// 4
+// Enter the second number:
+// 6
+// The GCD of 4 and 6 is 2
