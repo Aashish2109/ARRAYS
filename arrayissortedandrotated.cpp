@@ -39,3 +39,9 @@ int main()
 
     return 0;
 }
+//Output
+// Enter the size of ARRAY:
+// 5
+// Enter the ARRAY elements:
+// 3 4 5 1 2
+// The ARRAY is SORTED and ROTATED
