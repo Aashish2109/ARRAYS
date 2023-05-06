@@ -75,8 +75,44 @@ int main()
     }
     vector<int> ans = sum(arr1, size1, arr2, size2);
     cout << "The SUM is:" << endl;
-    for (int i = 0; i < size1; i++)
+    for (int i = 0; i < ans.size(); i++)
     {
         cout << ans[i] << " ";
     }
 }
+// OUTPUT
+
+// CASE 1:
+//  Enter the size of ARRAY 1:
+//  5
+//  Enter the ARRAY 1 elements:
+//  1 2 3 4 5
+//  Enter the size of ARRAY 2:
+//  5
+//  Enter the ARRAY 2 elements:
+//  5 4 3 2 1
+//  The SUM is:
+//  6 6 6 6 6
+
+// CASE 2:
+//  Enter the size of ARRAY 1:
+//  5
+//  Enter the ARRAY 1 elements:
+//  Enter the size of ARRAY 2:
+//  1
+//  Enter the ARRAY 2 elements:
+//  5
+//  The SUM is:
+//  1 2 3 5 0
+
+// CASE 3:
+// Enter the size of ARRAY 1:
+// 1
+// Enter the ARRAY 1 elements:
+// 1
+// Enter the size of ARRAY 2:
+// 5
+// Enter the ARRAY 2 elements:
+// 5 4 3 2 1
+// The SUM is:
+// 5 4 3 2 2
