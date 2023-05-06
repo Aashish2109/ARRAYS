@@ -31,3 +31,10 @@ int main()
     print(arr, size);
     return 0;
 }
+// OUTPUT
+// Enter the size of ARRAY:
+// 5
+// Enter the ARRAY elements:
+// 9 8 7 6 5
+// After reverse:
+// 5 6 7 8 9
