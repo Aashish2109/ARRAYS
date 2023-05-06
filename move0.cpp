@@ -35,3 +35,10 @@ int main()
     print(arr, size);
     return 0;
 }
+// OUTPUT
+// Enter the size of ARRAY:
+// 6 
+// Enter the ARRAY elements:
+// 1 0 0 1 0 1
+// After shifting
+// 1 1 1 0 0 0
