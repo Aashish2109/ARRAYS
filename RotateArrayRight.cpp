@@ -37,3 +37,12 @@ int main()
     }
     return 0;
 }
+// OUTPUT
+//  Enter the size of ARRAY:
+//  5
+//  Enter the ARRAY elements:
+//  1 2 3 4 5
+//  How many positions do you want to rotate ?
+//  2
+//  ARRAY after rotation :
+//  4 5 1 2 3
