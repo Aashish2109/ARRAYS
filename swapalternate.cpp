@@ -29,3 +29,10 @@ int main()
         cout << arr[i] << " ";
     }
 }
+//OUTPUT
+// Enter the size of ARRAY:
+// 5
+// Enter the ARRAY elements:
+// 1 2 3 4 5
+// After swapping:
+// 2 1 4 3 5
