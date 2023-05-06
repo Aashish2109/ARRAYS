@@ -50,3 +50,9 @@ int main()
 
     return 0;
 }
+//Output
+// Enter the size of ARRAY :
+// 5
+// Enter the ARRAY elements:
+// 1 1 2 3 4
+// DUPLICATES ARE:1 1
